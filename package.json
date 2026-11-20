@@ -1,0 +1,1 @@
+{ "name": "report-gen", "version": "0.2.0", "description": "Weekly report generator", "main": "src/index.js", "scripts": { "start": "node src/index.js" }, "license": "MIT" }
